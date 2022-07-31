@@ -26,6 +26,13 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+# header 1
+some text
+## header 2
+some more text
+### header 3
+a paragraph or something.
+
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
