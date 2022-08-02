@@ -13,3 +13,6 @@ main{
 body{
     background: #1D1D1D !important; 
 }
+* {
+    font-family: CaskaydiaCoveNerdFont;
+}
