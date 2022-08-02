@@ -2,6 +2,7 @@
     transform: rotate(180deg);
     position: fixed;
     bottom: 0;
+    pointer-events: none;
 }
 html{
     background: #1D1D1D;

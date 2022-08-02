@@ -1,0 +1,17 @@
+.my-work{
+    margin-top: 4rem;
+}
+.project-title, .project{
+    color: #777;
+    text-decoration: none;
+}
+.project-wrapper{
+    display: flex;
+    flex-direction: row;
+}
+.project-description{
+    text-align: left;
+    font-size: .9rem;
+    padding-left: .5rem;
+    margin-top: calc(1.325rem + .9vw + .5rem);
+}
