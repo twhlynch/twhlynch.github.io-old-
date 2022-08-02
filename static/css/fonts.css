@@ -1,0 +1,9 @@
+@font-face {
+    font-family: CaskaydiaCoveNerdFont;
+    src: url("/static/fonts/Caskaydia Cove Nerd Font Complete.ttf");
+}
+@font-face {
+    font-family: 'La Belle Aurore';
+    src: url("../fonts/LaBelleAurore-Regular.woff2");
+}
+@import url('https://fonts.googleapis.com/css2?family=Karla&family=Lato&family=Merriweather:wght@300&family=Playfair+Display&family=Poppins:wght@600&family=Readex+Pro:wght@600&family=Unica+One&display=swap');
