@@ -46,6 +46,11 @@ nav{
     width: 100px;
     height: 100px;
     background: #111;
+    border-radius: 50%;
+    margin-block: .5rem;
+}
+.logo-text {
+    margin-bottom: 0;
 }
 .logo{
     display: flex;

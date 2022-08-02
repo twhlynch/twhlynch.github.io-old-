@@ -29,6 +29,11 @@
     text-align: justify;
     max-width: 600px;
 }
+@media (max-width: 320px) {
+    .description {
+        text-align: left;
+    }
+}
 .home-main{
     width: 80%;
     height: 80%;
