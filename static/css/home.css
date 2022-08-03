@@ -24,7 +24,7 @@
     color: #3FAA8F;
 }
 .description{
-    font-family: 'open sans';
+    /*font-family: 'open sans';*/
     color: #888;
     text-align: justify;
     max-width: 600px;
