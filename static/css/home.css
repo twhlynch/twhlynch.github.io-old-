@@ -8,7 +8,7 @@
 .heading-letter{
     font-weight: 600;
     font-size: 4rem;
-    font-family: CaskaydiaCoveNerdFont;
+    font-family: 'Caskaydia Code';
     transition: all 0.3s ease-out !important;
 }
 .heading-letter:nth-child(1):hover, .heading-letter:nth-child(5):hover, .heading-letter:nth-child(9):hover, .heading-letter:nth-child(13):hover{
