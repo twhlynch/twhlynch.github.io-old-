@@ -3,3 +3,5 @@ plugins:
 - jekyll-remote-theme
 title: twhlynch's site
 description: Bookmark this to keep an eye on my project updates!
+category: Dev
+tags: [web, jekyll]
